@@ -104,7 +104,7 @@ class Tareas:
                 listarPor = "Terminada"
             elif opcion == "E" or opcion =="e":
                 listarPor = "Ejecutando"
-            elif opcion == "D" or opcion =="d":
+            elif opcion == "D" or opcion =="d": 
                 listarPor = "Todas"                
             
             lista_tareas =[]
